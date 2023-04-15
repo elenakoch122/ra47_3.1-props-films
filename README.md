@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2tuwa2vtxl24hfvh?svg=true)](https://ci.appveyor.com/project/elenakoch122/ra47-3-1-props-films)
+
+GitHub Pages:  https://elenakoch122.github.io/ra47_3.1-props-films
+
 Рейтинг фильмов
 ===
 
