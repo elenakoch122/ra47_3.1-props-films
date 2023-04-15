@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra47_3.1-props-films/static/css/main.76f6bdd8.css",
+    "main.js": "/ra47_3.1-props-films/static/js/main.1a24aed3.js",
+    "static/js/787.b6d9c22f.chunk.js": "/ra47_3.1-props-films/static/js/787.b6d9c22f.chunk.js",
+    "index.html": "/ra47_3.1-props-films/index.html",
+    "main.76f6bdd8.css.map": "/ra47_3.1-props-films/static/css/main.76f6bdd8.css.map",
+    "main.1a24aed3.js.map": "/ra47_3.1-props-films/static/js/main.1a24aed3.js.map",
+    "787.b6d9c22f.chunk.js.map": "/ra47_3.1-props-films/static/js/787.b6d9c22f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f6bdd8.css",
+    "static/js/main.1a24aed3.js"
+  ]
+}
